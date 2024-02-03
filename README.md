@@ -1,4 +1,4 @@
-Hi, I'm Teodora! 👋🏻👩🏼‍💻
+<h1>Hi, I'm Teodora! 👋🏻👩🏼‍💻</h1>
 
 ![githubupdated](https://github.com/teoc34/carateodora/assets/23657183/3148e42a-76a9-41f5-a1be-e6159f0012d1)
 
