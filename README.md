@@ -4,15 +4,11 @@
 
 <h3 align="center">Aspiring Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **my Graduation Thesis which includes an Android Application for Planning Cultural Events**
+- 🔭 I’m currently working on **my Graduation Thesis which includes an Budget Management Application for Small Businesses**
 
 - 🌱 I’m currently learning **Java and PL/SQL languages**
 
 - 👯 I’m looking to collaborate on **frontend, backend and design projects**
-
-- 👨‍💻 All of my projects are available at [fff](fff)
-
-- 📝 I regularly write articles on [fff](fff)
 
 - 📫 How to reach me **teodoracara.smm@yahoo.con**
 
