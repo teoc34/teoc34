@@ -17,9 +17,12 @@
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=teoc34&show_icons=true&theme=radical" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teoc34&layout=compact&theme=radical" /> </p>
+
+---
+
 🧰 **Tech Stack**
 ```yaml
 Languages:       JavaScript, TypeScript, HTML, CSS, Python  
 Frameworks:      React, Next.js, Node.js, Express  
 Tools & DevOps:  Git, GitHub, VSCode, Figma, Postman  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=teoc34&show_icons=true&theme=radical" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teoc34&layout=compact&theme=radical" /> </p>
