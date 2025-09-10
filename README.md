@@ -1,7 +1,7 @@
 <h2 align="center"> Hey Everyone, I'm Teo 👋</h2>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/teoc34?v=4" width="150" style="border-radius: 50%" />
 </p>
 
 <h3 align="center">Welcome to My GitHub Universe 🚀</h3>
