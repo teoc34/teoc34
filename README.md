@@ -22,9 +22,6 @@
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=teoc34&theme=radical&border_radius=5)
-![GitHub Snake Light](https://raw.githubusercontent.com/teoc34/teoc34/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/teoc34/teoc34/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 
 ---
 
