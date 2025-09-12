@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teoc34&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=teoc34&theme=radical&row=1&column=6" />
 </p>
 
 
