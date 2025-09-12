@@ -1,8 +1,7 @@
 <h2 align="center"> Hey Everyone, I'm Teo 👋</h2>
 
 <p align="center">
-  <img src="![Uploading Pink Abstract and Typographic Food and Beverage Banner (2).png…]()
-" width="150" style="border-radius: 50%" />
+  <img src="![Uploading Pink Abstract and Typographic Food and Beverage Banner (2).png…]()" width="150" style="border-radius: 50%" />
 </p>
 
 <h3 align="center">Welcome to My GitHub Universe 🚀</h3>
@@ -33,19 +32,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teoc34&theme=radical" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=teoc34&theme=radical&row=1&column=6" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teoc34&theme=radical" alt="Contribution Graph" />
+</p>
 
 ---
 
 
 🧰 **Tech Stack**
 ```yaml
-Languages:       JavaScript, TypeScript, HTML, CSS, Python  
+Languages:       JavaScript, TypeScript, HTML, CSS, Python, SQL, Java
 Frameworks:      React, Next.js, Node.js, Express  
-Tools & DevOps:  Git, GitHub, VSCode, Figma, Postman  
+Tools & DevOps:  Git, GitHub, VSCode, Figma, Postman, Power BI, Tableau 
