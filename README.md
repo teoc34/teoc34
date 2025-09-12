@@ -20,7 +20,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=teoc34&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teoc34&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=teoc34&theme=radical&border_radius=5)
-[![Teoc34's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Teoc34's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teoc34)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
