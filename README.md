@@ -23,6 +23,29 @@
 [![Teoc34's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teoc34)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![trophy](https://github-profile-trophy.vercel.app/?username=teoc34&theme=radical&row=1&column=6)
 
+<h2 align="center">📊 Teodora's GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teoc34&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teoc34&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=teoc34&theme=radical&border_radius=5" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teoc34&theme=radical" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=teoc34&theme=radical](https://github-profile-trophy.vercel.app/?username=teoc34&theme=radical&row=1&column=6)" alt="Contribution Graph" />
+</p>
+
+
 ---
 
 
