@@ -1,7 +1,7 @@
 <h2 align="center"> Hey Everyone, I'm Teo 👋</h2>
 
 <p align="center">
-  <img src="![Uploading Pink Abstract and Typographic Food and Beverage Banner (2).png…]()" width="150" style="border-radius: 50%" />
+  <img src="[![Uploading Pink Abstract and Typographic Food and Beverage Banner (2).png…]()](https://github.com/teoc34/teoc34/blob/main/Pink%20Abstract%20and%20Typographic%20Food%20and%20Beverage%20Banner%20(2).png)" width="150" style="border-radius: 50%" />
 </p>
 
 <h3 align="center">Welcome to My GitHub Universe 🚀</h3>
